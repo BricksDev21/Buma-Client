@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+.coba1 {
+    @apply text-3xl text-gray-800 pb-3;
+}
+
+.card-download {
+    @apply flex flex-col py-3 relative text-center snap-center px-4 shadow-gray-400 shadow-sm bg-white rounded-xl;
+}
+
+.icon-about {
+    @apply group-hover:fill-white  w-10 h-10 mb-2 text-gray-500 dark:text-gray-400;
+}
+
+#dark-toggle:checked ~ label div.toggle-circle {
+    @apply translate-x-3;
+}
