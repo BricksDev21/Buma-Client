@@ -21,7 +21,7 @@ Route::get('/kegiatan', function () {
     return view('about');
 })->name('kegiatan');
 
-Route::view('/download', 'Download-page')->name('download');
+Route::view('/training', 'training-page')->name('download');
 Route::view('/operator', 'form-operator')->name('operator');
 Route::view('/pengawas-produksi', 'form-pengawas-produksi')->name('pengawas');
 Route::view('/add-skill','add-skill')->name('add-skill');
@@ -30,5 +30,7 @@ Route::view('/skill-up','skill-up')->name('skill-up');
 Route::view('/variant-skill','variant-skill')->name('variant-skill');
 Route::view('/basic-operator','basic-operator')->name('basic-operator');
 Route::view('/bank-prosedur','bank-prosedur')->name('bank-prosedur');
-
+Route::view('/job-safety','job-safety')->name('job-safety');
+Route::view('/operasional-bc', 'sop-bc')->name('sop-bc');
+Route::view('/sop-std', 'sop-std')->name('sop-std');
 

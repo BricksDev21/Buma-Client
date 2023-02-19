@@ -12,7 +12,7 @@
             <a href="https://drive.google.com/drive/folders/1xnwcbvH9dEB3FjzWi4ajlyOCmWy2Q3Dh?usp=share_link">
             <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white :text-sm group-hover:text-white"> In Class</h5>
             </a>
-            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 group-hover:text-white"> Folder untuk menunjang proses belajar anda di kelas atau sebagai referensi belajar ketika anda beristirahat</p>
+            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 group-hover:text-white"> berisikan berkas apa saja yang dibutuhkan trainer selama CLASS</p>
             <a href="https://drive.google.com/drive/folders/1xnwcbvH9dEB3FjzWi4ajlyOCmWy2Q3Dh?usp=share_link" class="inline-flex items-center text-blue-600 hover:underline group-hover:text-white">
                 Click to open
                 <svg class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
@@ -26,7 +26,7 @@
             <a href="https://drive.google.com/drive/folders/1FZCRMQQ4ZSxh1_QILWLAunA8cBAUcEbR?usp=share_link">
             <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white :text-sm group-hover:text-white">On Job Training</h5>
             </a>
-            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 group-hover:text-white"> List Materi On Job training untuk mengakomodasi proses belajar anda</p>
+            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 group-hover:text-white"> Berisikan berkas apa saja yang di butuhkan saat melaksanakan On Job Training</p>
             <a href="https://drive.google.com/drive/folders/1FZCRMQQ4ZSxh1_QILWLAunA8cBAUcEbR?usp=share_link" class="inline-flex items-center text-blue-600 hover:underline group-hover:text-white">
                 Click to open
                 <svg class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
@@ -39,9 +39,9 @@
             </svg>
             
             <a href="https://drive.google.com/drive/folders/1JAeaax2wQdvbJ5-aX51WlEpmzqng7Xca?usp=share_link">
-            <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white :text-sm group-hover:text-white">On Site</h5>
+            <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white :text-sm group-hover:text-white">On Field</h5>
             </a>
-            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 group-hover:text-white"> List Materi untuk mengakomodasi pembelajaran project based learning dan kemampuan studi kasus anda</p>
+            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 group-hover:text-white"> berisikan berkas apa saja yang dibutuhkan trainer pada saat Gerdas dan Orientasi Lapangan</p>
             <a href="https://drive.google.com/drive/folders/1JAeaax2wQdvbJ5-aX51WlEpmzqng7Xca?usp=share_link" class="inline-flex items-center text-blue-600 hover:underline group-hover:text-white">
                 Click to open 
                 <svg class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
