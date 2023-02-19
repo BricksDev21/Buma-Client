@@ -26,7 +26,7 @@
       </div>
   </section>
 
-  <section class="dark:bg-gray-700">
+<section class="bg-green-100 dark:bg-gray-700">
     <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Basic Mechanic </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
@@ -82,7 +82,7 @@
       </div>
   </section>
 
-  <section class="dark:bg-gray-700">
+<section class="bg-green-100 dark:bg-gray-700">
     <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Basic Operator </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
@@ -122,7 +122,7 @@
       </div>
   </section>
 
-  <section class="dark:bg-gray-700">
+<section class="bg-green-100 dark:bg-gray-700">
     <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Program Orientasi </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
@@ -162,7 +162,7 @@
       </div>
   </section>
 
-  <section class="dark:bg-gray-700">
+<section class="bg-green-100 dark:bg-gray-700">
     <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Program Peningkatan Skill Operator </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
@@ -186,7 +186,7 @@
       </div>
   </section>
 
-  <section class="dark:bg-gray-700">
+  <section class="bg-green-100 dark:bg-gray-700">
     <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Program Refresh </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">

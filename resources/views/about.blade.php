@@ -3,8 +3,8 @@
 @section("page-content")
    @extends('layouts.link-page')
   {{-- Bagian Observasi --}}
-  <section class="dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Observasi </h1>
+  <section class="bg-green-100 dark:bg-gray-700">
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Observasi </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
           <div class=" group max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:bg-blue-500 dark:hover:bg-blue-500">
@@ -37,8 +37,8 @@
       </div>
   </section>
 {{-- Tes Praktek --}}
-  <section class="dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Tes Praktek </h1>
+<section class="bg-green-100 dark:bg-gray-700">
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Tes Praktek </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
           {{-- G1 --}}

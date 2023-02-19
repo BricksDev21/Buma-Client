@@ -2,7 +2,7 @@
   <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
     <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
       <div class="flex flex-col mb-16 sm:text-center sm:mb-0">
-        <a href="/" class="mb-6 sm:mx-auto ">
+        <a href="/" class="mb-6 sm:mx-auto mt-6 ">
           <div class="flex items-center justify-center w-24 h-24">
             <img src="{{asset('img/logo-learn.jpeg')}}" alt="" srcset="">
           </div>
@@ -21,9 +21,7 @@
               </span>
               Prosedur
             </h2>
-            <p class="text-base text-indigo-100 md:text-lg">
-          segala bentuk prosedur untuk menunjang pekerjaan serta menjamin keselamatan pekerja agar terhindar dari kecelekaan.
-            </p>
+           
           </div>
         </div>
       </div>

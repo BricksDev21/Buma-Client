@@ -2,8 +2,8 @@
 @extends('layouts.download-page')
 @section('page-content')
 {{-- Observasi --}}
-<section class="dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Observasi </h1>
+<section class="bg-green-100 dark:bg-gray-700">
+      <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Observasi </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
         {{-- G1 --}}

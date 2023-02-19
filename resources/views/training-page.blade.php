@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @extends('layouts.download-page')
 @section('page-content')
-<section class="dark:bg-gray-700">
+<section class="bg-green-100 dark:bg-gray-700">
     <div class="flex justify-center py-6">
       <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
       {{-- G1 --}}
