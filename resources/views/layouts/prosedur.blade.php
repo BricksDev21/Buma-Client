@@ -18,12 +18,12 @@
                   </defs>
                   <rect fill="url(#700c93bf-0068-4e32-aafe-ef5b6a647708)" width="52" height="24"></rect>
                 </svg>
-                <span class="relative">Improve</span>
+                <span class="relative">Bank</span>
               </span>
-              Skill
+              Prosedur
             </h2>
             <p class="text-base text-indigo-100 md:text-lg">
-           Kembangkan, tambah dan belajar untuk menunjang dan meningkatkan potensi anda menjadi "pahlawan" di BUMA
+          segala bentuk prosedur untuk menunjang pekerjaan serta menjamin keselamatan pekerja agar terhindar dari kecelekaan.
             </p>
           </div>
         </div>

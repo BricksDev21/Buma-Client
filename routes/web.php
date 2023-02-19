@@ -29,5 +29,6 @@ Route::view('/experience','experience')->name('experience');
 Route::view('/skill-up','skill-up')->name('skill-up');
 Route::view('/variant-skill','variant-skill')->name('variant-skill');
 Route::view('/basic-operator','basic-operator')->name('basic-operator');
+Route::view('/bank-prosedur','bank-prosedur')->name('bank-prosedur');
 
 
