@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
     <title>Buma</title>
+    <link rel="shortcut icon" href="{{ asset('favicon_io/apple-touch-icon.png') }}" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>

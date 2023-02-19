@@ -1,10 +1,10 @@
-<div class="w-full bg-cover object-fill bg-no-repeat top-0" style="background-image: url({{asset('img/buma.png')}});" >
+<div class="w-full bg-cover object-fill bg-no-repeat top-0" style="background-image: url({{asset('img/banner-buma.jpeg')}});" >
     <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
         <div class="flex flex-col mb-16 sm:text-center sm:mb-0">
           <a href="/" class="mb-6 sm:mx-auto ">
             <div class="flex items-center justify-center w-24 h-24">
-              <img src="{{asset('img/image2vector.svg')}}" alt="" srcset="">
+              <img src="{{asset('img/logo-learn.jpeg')}}" alt="" srcset="">
             </div>
           </a>
           <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">

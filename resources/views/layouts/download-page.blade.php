@@ -1,14 +1,13 @@
 
-<div class="w-full bg-cover object-fill bg-no-repeat" style="background-image: url({{asset('img/buma.png')}});" >
-    <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
-      <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
-        <div class="flex flex-col mb-16 sm:text-center sm:mb-0">
-          <a href="/" class="mb-6 sm:mx-auto ">
-            <div class="flex items-center justify-center w-24 h-24">
-              <img src="{{asset('img/image2vector.svg')}}" alt="" srcset="">
-            </div>
-          </a>
-          <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+<div class="w-full bg-cover object-fill bg-no-repeat top-0" style="background-image: url({{asset('img/banner-buma.jpeg')}});" >
+  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
+      <div class="flex flex-col mb-16 sm:text-center sm:mb-0">
+        <a href="/" class="mb-6 sm:mx-auto ">
+          <div class="flex items-center justify-center w-24 h-24">
+            <img src="{{asset('img/logo-learn.jpeg')}}" alt="" srcset="">
+          </div>
+        </a>          <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
             <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-white sm:text-4xl md:mx-auto">
               <span class="relative inline-block">
                 <svg viewBox="0 0 52 24" fill="currentColor" class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-deep-purple-accent-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block">
