@@ -22,3 +22,5 @@ Route::get('/kegiatan', function () {
 })->name('kegiatan');
 
 Route::view('/download', 'Download-page')->name('download');
+
+Route::view('/operator', 'form-operator')->name('operator');
