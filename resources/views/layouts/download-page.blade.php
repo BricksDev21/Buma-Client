@@ -19,12 +19,12 @@
                   </defs>
                   <rect fill="url(#700c93bf-0068-4e32-aafe-ef5b6a647708)" width="52" height="24"></rect>
                 </svg>
-                <span class="relative">Download</span>
+                <span class="relative">Training</span>
               </span>
               Page
             </h2>
             <p class="text-base text-indigo-100 md:text-lg">
-             ini adalah halaman untuk anda melakukan download file dari perusahaan.
+              Lakukan Training bersama untuk menunjang karir anda bersama BUMA
             </p>
           </div>
         </div>

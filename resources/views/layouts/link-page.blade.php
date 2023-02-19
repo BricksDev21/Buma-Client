@@ -20,7 +20,7 @@
                 </svg>
                 <span class="relative">List</span>
               </span>
-              Link Kegiatan
+              Kegiatan
             </h2>
             <p class="text-base text-indigo-100 md:text-lg">
             Halaman berisi kegiatan yang diadakan dan link yang mendukung penyelenggaraan kegiatan perusahaan

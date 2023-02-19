@@ -24,3 +24,5 @@ Route::get('/kegiatan', function () {
 Route::view('/download', 'Download-page')->name('download');
 
 Route::view('/operator', 'form-operator')->name('operator');
+Route::view('/pengawas-produksi', 'form-pengawas-produksi')->name('pengawas');
+Route::view('/add-skill','add-skill')->name('add-skill');
