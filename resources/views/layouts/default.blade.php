@@ -6,21 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
     <title>Buma</title>
-    @vite('resources/css/app.css')
-    @vite('resources/js/dark-toggle.js')
-    <script>
-        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && win dow.matchMedia('(prefers-color-scheme: dark)').matches)) {
-  document.documentElement.classList.add('dark')
-} else {
-  document.documentElement.classList.remove('dark')
-}
-    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
     <header class="fixed top-0 left-0 right-0 z-50">        
         <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 dark:bg-gray-900" id="navbar">
             <div class="container flex flex-wrap items-center justify-between mx-auto">
-                <a href="#" class="flex items-center">
+                <a href="{{route('home')}}" class="flex items-center">
                     <img src="{{asset('img/pt-buma-logo-58607DFDAF-seeklogo.com.png')}}" class="h-6 mr-3 sm:h-9" alt="Flowbite Logo" />
                 </a>
                 <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">

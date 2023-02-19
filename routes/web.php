@@ -22,7 +22,12 @@ Route::get('/kegiatan', function () {
 })->name('kegiatan');
 
 Route::view('/download', 'Download-page')->name('download');
-
 Route::view('/operator', 'form-operator')->name('operator');
 Route::view('/pengawas-produksi', 'form-pengawas-produksi')->name('pengawas');
 Route::view('/add-skill','add-skill')->name('add-skill');
+Route::view('/experience','experience')->name('experience');
+Route::view('/skill-up','skill-up')->name('skill-up');
+Route::view('/variant-skill','variant-skill')->name('variant-skill');
+Route::view('/basic-operator','basic-operator')->name('basic-operator');
+
+
