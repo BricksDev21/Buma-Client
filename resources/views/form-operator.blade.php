@@ -1,5 +1,5 @@
 @extends('layouts.default')
-@extends('layouts.download-page')
+@extends('layouts.link-page')
 @section('page-content')
 {{-- Observasi --}}
 <section class="bg-green-100 dark:bg-gray-700">

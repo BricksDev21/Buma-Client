@@ -2,8 +2,8 @@
 @extends('layouts.skill')
 @section('page-content')
 
-<section class="dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Assesment </h1>
+<section class="dark:bg-gray-700 bg-green-100">
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Assesment </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-1   sm:px-0 sm:grid-cols-3">
           {{-- G1 --}}
@@ -27,7 +27,7 @@
   </section>
 
 <section class="bg-green-100 dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Basic Mechanic </h1>
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Basic Mechanic </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-1   sm:px-0 sm:grid-cols-3">
           {{-- G1 --}}
@@ -83,7 +83,7 @@
   </section>
 
 <section class="bg-green-100 dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Basic Operator </h1>
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Basic Operator </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-1   sm:px-0 sm:grid-cols-3">
           {{-- G1 --}}
@@ -123,7 +123,7 @@
   </section>
 
 <section class="bg-green-100 dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Program Orientasi </h1>
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Program Orientasi </h1>
       <div class="flex justify-center py-6">
         <div class="grid gap-5 grid-cols-1   sm:px-0 sm:grid-cols-3">
           {{-- G1 --}}
@@ -163,9 +163,9 @@
   </section>
 
 <section class="bg-green-100 dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Program Peningkatan Skill Operator </h1>
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Program Peningkatan Skill Operator </h1>
       <div class="flex justify-center py-6">
-        <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
+        <div class="grid gap-5 grid-cols-1   sm:px-0 sm:grid-cols-3">
         {{-- G1 --}}
           <div class=" group max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:bg-blue-500 dark:hover:bg-blue-500">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="group-hover:fill-white  w-10 h-10 mb-2 text-gray-500 dark:text-gray-400">
@@ -187,9 +187,9 @@
   </section>
 
   <section class="bg-green-100 dark:bg-gray-700">
-    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white"> Program Refresh </h1>
+    <h1 class="py-6 flex justify-center text-4xl font-weight-bold dark:text-white text-gray-900"> Program Refresh </h1>
       <div class="flex justify-center py-6">
-        <div class="grid gap-5 grid-cols-3   sm:px-0 max-sm:grid-cols-1">
+        <div class="grid gap-5 grid-cols-1   sm:px-0 sm:grid-cols-3">
         {{-- G1 --}}
           <div class=" group max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:bg-blue-500 dark:hover:bg-blue-500">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="group-hover:fill-white  w-10 h-10 mb-2 text-gray-500 dark:text-gray-400">
